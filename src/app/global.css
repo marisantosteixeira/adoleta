@@ -1,0 +1,161 @@
+.body{
+    background-color: white;
+    color: lightblue; 
+}
+
+.carrega{
+ margin-top: 50px;
+   
+}
+
+
+p{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: black solid 1px;
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+button{
+    padding: 15px;
+    background-color: lightblue;
+    border-radius: 8px;
+    border-color: white;
+
+
+    
+}
+
+.botao{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 48%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.botaoalt{
+    margin-left: 42%;
+    margin-right: 25px;
+}
+
+button:hover{
+    background-color:rgb(22, 167, 229);
+}
+
+.entrar{
+    color: white;
+    margin-left: 42%;
+    margin-right: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.voltar{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.apvolt{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+  
+}
+.h1{
+    color: lightblue
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 100px;
+}
+
+.inputs{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-color: lightblue;
+    border-color: white;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.inputs:hover{
+    background-color: rgb(22, 167, 229) ;
+}
+
+.inputs::placeholder {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+form{
+    padding-bottom: 100px;
+}
+
+.inputs{
+    width: 50%;
+    
+ margin-left: 25%;
+}
+
+fieldset{
+    margin-top: 10%;
+}
+
+nav ul{
+    background-color: lightblue;
+    padding: 30px;
+    border:1px solid rgb(22, 167, 229);
+   
+
+}
+
+nav ul #link{
+    text-decoration: none;
+    padding: 10px;
+   
+
+}
+
+.menu li a:hover{
+
+color:#fff;
+-moz-box-shadow:0 1px 5px 0 rgb(22, 167, 229);
+-webkit-box-shadow:0 1px 5px 0 rgb(22, 167, 229);
+text-shadow:0px 0px 1px rgb(22, 167, 229);
+}
+
+.menu li ul{
+    position:absolute;
+top:25px;
+left:0;
+background-color:#fff;
+display:none;
+}
+
+.sair{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
